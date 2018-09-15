@@ -13,3 +13,6 @@ node 8.11.1+
 * Build
   * `vue build --target wc --name my-h1 MyH1.vue`
   * you can try your component in demo.html, for example: `<my-h1 name="Allen"></my-h1>`
+
+## Note
+* If you need scss support, you still install dependency like `sass-loader`.

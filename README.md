@@ -3,9 +3,13 @@
 Very Simple WebComponent sample with vue-cli 3, TypeScript is supported.
 
 ## Requirement
-node 8.11.1+  
-@vue/cli 3.0.0+
-  `npm install -g @vue/cli` or `yarn global add @vue/cli`
+* node 8.11.1+  
+* @vue/cli 3.0.0+
+  * `npm install -g @vue/cli` or `yarn global add @vue/cli`  
+* scss support
+  * install dependency globally, just one time.
+  * `yarn global add node-sass sass-loader`
+  
 
 ## How-to
 * Development

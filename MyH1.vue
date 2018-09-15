@@ -14,7 +14,7 @@ export default Vue.extend({
 })
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
   h1 {
     color: #990000
   }
